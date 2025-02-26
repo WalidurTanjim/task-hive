@@ -1,4 +1,4 @@
-# PlanFusion Frontend
+# TaskHive
 
 PlanFusion Frontend is the client-side application for the TaskMate task management system. It provides a seamless and interactive user experience for task management with real-time updates, drag-and-drop functionality, and an intuitive UI.
 
@@ -39,7 +39,7 @@ Ensure you have the following installed:
 
 ### Clone the repository
 ```bash
-$ git clone https://github.com/shaikatahmed78/taskmate-frontend.git
+$ git clone https://github.com/WalidurTanjim/task-hive.git
 $ cd taskmate-frontend
 ```
 
@@ -132,9 +132,9 @@ $ netlify deploy
 ---
 
 ## 📞 Support
-For any issues, contact me at [shaikatahmed78@gmail.com](mailto:shaikatahmed78@gmail.com).
+For any issues, contact me at [walidurtanjim@gmail.com]
 
 ---
 
-Thank you for using **PlanFusion**! 🎉
+Thank you for using **TaskHive**! 🎉
 
